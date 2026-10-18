@@ -68,9 +68,6 @@ nav a:active {
     color: #ffffff;
 }
 
-/* =========================================================
-   4. LAYOUT & BOX MODEL
-   ========================================================= */
 .container {
     max-width: 900px;
     margin: 30px auto;
@@ -100,9 +97,6 @@ nav a:active {
     line-height: 1.8;
 }
 
-/* =========================================================
-   5. CSS OUTLINE
-   ========================================================= */
 .outline-box {
     outline-style: solid;
     outline-color: #d97724;
@@ -110,9 +104,6 @@ nav a:active {
     outline-offset: 4px;
 }
 
-/* =========================================================
-   6. CSS LISTS
-   ========================================================= */
 .list-kategori {
     list-style-type: square;
     list-style-position: inside;
@@ -131,9 +122,6 @@ nav a:active {
     border-bottom: none;
 }
 
-/* =========================================================
-   7. CSS TABLES
-   ========================================================= */
 .table-container {
     overflow-x: auto;
     margin-top: 15px;
@@ -165,9 +153,6 @@ nav a:active {
     background-color: #f1dfd1;
 }
 
-/* =========================================================
-   8. BUTTON, ICONS & MAP STYLING
-   ========================================================= */
 .btn-maps:link,
 .btn-maps:visited {
     display: inline-block;
@@ -203,9 +188,6 @@ nav a:active {
     border: 0;
 }
 
-/* =========================================================
-   9. FOOTER
-   ========================================================= */
 footer {
     text-align: center;
     padding: 20px;
